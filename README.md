@@ -28,7 +28,7 @@ As part of work I gained new skills like:
 * Testing neural network
 * Estimating nn learning capacity based on train/test loss diference
 
-# Conslusion
+# Conclusion
 
 Neural network has managed to achieve good results. However, model overestimates bike ridership during Christmas holiday because this information hadn't been taken into account.
 
